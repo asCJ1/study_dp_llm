@@ -1,4 +1,4 @@
-环境信息:
+# 0 环境信息：
 
 python==3.10
 
@@ -11,3 +11,5 @@ datasets==2.18.0
 accelerate==0.27.2
 
 视频课程:https://www.bilibili.com/video/BV11E421u7MK
+
+# Lora和PEFT：
